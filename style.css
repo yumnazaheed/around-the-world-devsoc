@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background: #ffcc00;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+    color: #333;
+}
+.locations {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.location {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
